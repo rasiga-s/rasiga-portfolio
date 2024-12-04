@@ -1,5 +1,5 @@
 import { ISkillListItem, SkillLevel } from "@/types";
-
+//skils
 const skills: ISkillListItem[] = [
   {
     title: "Programming Languages",
